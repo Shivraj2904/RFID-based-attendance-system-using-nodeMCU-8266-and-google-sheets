@@ -9,7 +9,7 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 //---------------------------------------------------------------------------------------------------------
 // Enter Google Script Deployment ID:
-const char *GScriptId = "ENTER GOOGLE SHEET ID";
+const char *GScriptId = "ENTER DEPLOYMENT ID";
 //---------------------------------------------------------------------------------------------------------
 // Enter network credentials:
 const char* ssid     = "ENTER WIFI NAME";
